@@ -1,0 +1,42 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+body{
+    background-image: url("./space-gray-iphone-6-on-black-line-paper-850358.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+.main{
+    background-color: #1f4068;
+    width: 400px;
+    height: 175px;
+    margin: 100px auto;
+    position: relative;
+    padding: 30px;
+    border-radius: 10px;
+
+}
+.badge{
+    background-color: tomato;
+    color: white;
+    padding: 5px 10px;
+    width: 95px;
+    font-family: 'Yanone Kaffeesatz', sans-serif;
+    font-weight: bold;
+    position: absolute;
+    left: 40%;
+    top: -15px;
+}
+.clock{
+    background-color: #dae1e7;
+    text-align: center;
+    font-size: 55px;
+    height: 100%;
+    padding-top: 25px;
+    font-family: 'Roboto', sans-serif;
+    border-radius: 20px;
+
+}
